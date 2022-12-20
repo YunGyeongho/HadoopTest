@@ -1,0 +1,48 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep27_1_Text\com.python.pydev.analysis\v2_indexcache
+p03_tokenize|1664241783590520000|C:\Users\sundooedu\Desktop\wood\Sep27_1_Text\p03_tokenize.py
+p04_ENG_stopword|1664242617306872000|C:\Users\sundooedu\Desktop\wood\Sep27_1_Text\p04_ENG_stopword.py
+p05_ENG_extract|1664244535601457000|C:\Users\sundooedu\Desktop\wood\Sep27_1_Text\p05_ENG_extract.py
+p02_special|1664239389320185000|C:\Users\sundooedu\Desktop\wood\Sep27_1_Text\p02_special.py
+p03_pythonlist|1664241641355554000|C:\Users\sundooedu\Desktop\wood\Sep27_1_Text\p03_pythonlist.py
+p08_wordcloud|1664268454396159000|C:\Users\sundooedu\Desktop\wood\Sep27_1_Text\p08_wordcloud.py
+p01_basic|1664250252536538000|C:\Users\sundooedu\Desktop\wood\Sep27_1_Text\p01_basic.py
+p06_ENG_poomsa|1664244782712966000|C:\Users\sundooedu\Desktop\wood\Sep27_1_Text\p06_ENG_poomsa.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+3=p03_tokenize
+4=p04_ENG_stopword
+5=p05_ENG_extract
+8=p02_special
+1=p03_pythonlist
+6=p08_wordcloud
+7=p01_basic
+2=p06_ENG_poomsa
+-- END DICTIONARY
+-- START TREE 1
+19
+a|1|a!11@
+b|1|b!11@
+c|1|c!11@
+c2|1|c2!11@
+d|5|d!19@d!27@d!35@d!43@d!11@
+df|1|df!51@
+f|2|f!51@f!59@
+f2|2|f2!51@f2!59@
+f3|1|f3!51@
+fil|2|file!51@file!59@
+ps|1|ps!43@
+spe|1|specials!67@
+st|1|st!27@
+sw|3|sw!59@sw!35@sw!51@
+w|1|w!35@
+wc|1|wc!59@
+wnl|3|wnl!43@wnl!59@wnl!51@
+wor|3|words!51@word!35@words!59@
+wt|3|wt!35@wt!19@wt!43@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

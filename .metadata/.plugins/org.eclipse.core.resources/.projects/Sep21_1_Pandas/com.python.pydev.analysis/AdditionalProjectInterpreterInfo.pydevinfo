@@ -1,0 +1,45 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep21_1_Pandas\com.python.pydev.analysis\v2_indexcache
+p11_hadoopResult|1663749147204943000|C:\Users\sundooedu\Desktop\wood\Sep21_1_Pandas\p11_hadoopResult.py
+p06_statistics|1663742699403707000|C:\Users\sundooedu\Desktop\wood\Sep21_1_Pandas\p06_statistics.py
+p09_Mosquito2|1663741750876483000|C:\Users\sundooedu\Desktop\wood\Sep21_1_Pandas\p09_Mosquito2.py
+p02_sort|1663723401165530000|C:\Users\sundooedu\Desktop\wood\Sep21_1_Pandas\p02_sort.py
+p03_sort|1663726127202556000|C:\Users\sundooedu\Desktop\wood\Sep21_1_Pandas\p03_sort.py
+p07_calculate|1663733901287070000|C:\Users\sundooedu\Desktop\wood\Sep21_1_Pandas\p07_calculate.py
+p08_Mosquito|1663738795956704000|C:\Users\sundooedu\Desktop\wood\Sep21_1_Pandas\p08_Mosquito.py
+p01_data|1663722229206502000|C:\Users\sundooedu\Desktop\wood\Sep21_1_Pandas\p01_data.py
+p10_group|1663742702065958000|C:\Users\sundooedu\Desktop\wood\Sep21_1_Pandas\p10_group.py
+p04_replace|1663726898815488000|C:\Users\sundooedu\Desktop\wood\Sep21_1_Pandas\p04_replace.py
+p05_null|1663727726418602000|C:\Users\sundooedu\Desktop\wood\Sep21_1_Pandas\p05_null.py
+-- END DISKCACHE
+-- START DICTIONARY
+11
+3=p11_hadoopResult
+1=p06_statistics
+5=p09_Mosquito2
+4=p02_sort
+6=p07_calculate
+7=p08_Mosquito
+9=p03_sort
+2=p01_data
+8=p10_group
+10=p05_null
+11=p04_replace
+-- END DICTIONARY
+-- START TREE 1
+10
+con|1|con!11@
+dat|1|data!19@
+df|5|df!27@df!35@df!11@df!43@df!51@
+dus|1|dustData!51@
+f|2|f!19@f!59@
+huc|3|huc!51@huc!59@huc!19@
+md|4|md!67@md!75@md!83@md!91@
+mos|1|mosquito!59@
+rb|3|rb!19@rb!51@rb!59@
+sql|1|sql!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

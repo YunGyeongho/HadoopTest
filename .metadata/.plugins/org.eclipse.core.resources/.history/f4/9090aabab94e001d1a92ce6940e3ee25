@@ -1,0 +1,15 @@
+# -*- coding:utf-8 -*-
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.naive_bayes import MultinomialNB
+from konlpy.tag._okt import Okt
+
+class AiAdFilter():
+    
+    def __init__(self):
+        self.cv = CountVectorizer()
+        self.mnb = MultinomialNB()
+        self.okt = Okt()
+        
+    
+
+    

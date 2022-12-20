@@ -1,0 +1,53 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Otc06_1_DeepLearning\com.python.pydev.analysis\v2_indexcache
+p03_tensorflow|1665022657920214000|C:\Users\sundooedu\Desktop\wood\Otc06_1_DeepLearning\p03_tensorflow.py
+test|1665132853258960000|C:\Users\sundooedu\Desktop\wood\Otc06_1_DeepLearning\test.py
+p01_tensorflow_DNN|1665017054875056000|C:\Users\sundooedu\Desktop\wood\Otc06_1_DeepLearning\p01_tensorflow_DNN.py
+p02_tensorflow_DNN|1665023195796004000|C:\Users\sundooedu\Desktop\wood\Otc06_1_DeepLearning\p02_tensorflow_DNN.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+4=p03_tensorflow
+3=test
+1=p01_tensorflow_DNN
+2=p02_tensorflow_DNN
+-- END DICTIONARY
+-- START TREE 1
+32
+a|1|a!11@
+a1|2|a1!11@a1!19@
+a2|2|a2!19@a2!11@
+a3|2|a3!11@a3!19@
+a4|2|a4!19@a4!11@
+ao|2|ao!11@ao!19@
+b|1|b!11@
+b1|2|b1!19@b1!11@
+b2|2|b2!11@b2!19@
+b3|2|b3!19@b3!11@
+b4|2|b4!11@b4!19@
+bs|1|bs!27@
+com|1|companyList!27@
+d|2|d!19@d!11@
+dis|2|distance!19@distance!11@
+f|1|f!19@
+get|2|getImg!18@getImg!34@
+goa|2|goal!19@goal!11@
+ima|1|images!27@
+lab|2|label!11@label!19@
+new|1|newMovie!11@
+rea|1|realAddr!27@
+req|1|req!27@
+res|2|result!19@result!11@
+s|2|s!19@s!11@
+sik|8|sik4!11@sik1!19@sik3!11@sik3!19@sik1!11@sik2!11@sik2!19@sik4!19@
+src|1|src!27@
+url|1|url!27@
+x|2|x!19@x!11@
+xda|2|xData!11@xData!19@
+y|2|y!11@y!19@
+yda|2|yData!19@yData!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

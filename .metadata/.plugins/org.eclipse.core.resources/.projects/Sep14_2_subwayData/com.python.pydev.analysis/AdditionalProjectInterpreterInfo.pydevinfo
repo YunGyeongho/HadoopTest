@@ -1,0 +1,35 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep14_2_subwayData\com.python.pydev.analysis\v2_indexcache
+byDayAvg|1663137305861392000|C:\Users\sundooedu\Desktop\wood\Sep14_2_subwayData\byDayAvg.py
+test|1663143291315244000|C:\Users\sundooedu\Desktop\wood\Sep14_2_subwayData\test.py
+avgBySeason|1663144441867337000|C:\Users\sundooedu\Desktop\wood\Sep14_2_subwayData\avgBySeason.py
+sdContruction|1663133810120273000|C:\Users\sundooedu\Desktop\wood\Sep14_2_subwayData\sdContruction.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=byDayAvg
+1=test
+4=avgBySeason
+3=sdContruction
+-- END DICTIONARY
+-- START TREE 1
+14
+a|1|a!11@
+byd|1|byDay!19@
+dat|1|date!27@
+f|3|f!35@f!27@f!19@
+hc|1|hc!27@
+i|2|i!19@i!35@
+lin|2|line!19@line!35@
+res|1|resBody!27@
+s|2|s!19@s!35@
+sea|5|seasonSum!35@seasons!11@seasons!35@season!35@seasonCount!35@
+sub|1|subwayData!27@
+sum|2|sum!19@sum!35@
+whe|1|when!27@
+yoi|3|yoil!19@yoilCount!19@yoilSum!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

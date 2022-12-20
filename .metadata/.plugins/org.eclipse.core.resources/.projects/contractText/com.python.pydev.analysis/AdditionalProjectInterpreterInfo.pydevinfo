@@ -1,0 +1,72 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\contractText\com.python.pydev.analysis\v2_indexcache
+test4|1665642491655618000|C:\Users\sundooedu\Desktop\wood\contractText\test4.py
+test5|1665647791903094000|C:\Users\sundooedu\Desktop\wood\contractText\test5.py
+test2|1665552866040498000|C:\Users\sundooedu\Desktop\wood\contractText\test2.py
+imgmergeTest|1666052863202761000|C:\Users\sundooedu\Desktop\wood\contractText\imgmergeTest.py
+adFilter|1665995920564959000|C:\Users\sundooedu\Desktop\wood\contractText\adFilter.py
+test6|1665996438764698000|C:\Users\sundooedu\Desktop\wood\contractText\test6.py
+testestesst|1666052863164892000|C:\Users\sundooedu\Desktop\wood\contractText\testestesst.py
+tttt|1665972384726110000|C:\Users\sundooedu\Desktop\wood\contractText\tttt.py
+adTextExtract|1665647059464324000|C:\Users\sundooedu\Desktop\wood\contractText\adTextExtract.py
+testtest|1666053402644529000|C:\Users\sundooedu\Desktop\wood\contractText\testtest.py
+adImgTextExtract|1665561489739218000|C:\Users\sundooedu\Desktop\wood\contractText\adImgTextExtract.py
+test1|1665477650758503000|C:\Users\sundooedu\Desktop\wood\contractText\test1.py
+-- END DISKCACHE
+-- START DICTIONARY
+11
+5=test4
+1=test5
+3=test2
+6=adFilter
+7=testestesst
+8=test6
+11=tttt
+2=testtest
+9=adTextExtract
+10=adImgTextExtract
+4=test1
+-- END DICTIONARY
+-- START TREE 1
+36
+a|1|a!11@
+bac|1|backImg!19@
+bs|2|bs!27@bs!35@
+cle|1|cleanText!43@
+com|3|companyList!27@companyList!51@companyList!59@
+con|1|con!43@
+d|1|d!43@
+db|1|db!43@
+df|1|df!67@
+exc|1|exceptList!51@
+fil|1|filterResult!51@
+for|1|foreground!19@
+get|16|getMainFrameSrc!50@getMainContainer!42@getMainFrameSrc!74@getMainContainer!58@getMainFrameSrc!82@getMainContainer!74@getMainFrameSrc!42@getMainContainer!82@getImgSrcList!58@getMainContainer!50@getImgSrcList!50@getImgSrc!82@getMainContainer!90@getImgSrc!90@getMainFrameSrc!90@getMainFrameSrc!58@
+hea|9|header!35@header!51@header!27@header!59@header!43@header!19@header!75@header!83@header!91@
+ima|2|images!35@images!27@
+img|4|imgKeywordList!51@imgKeywordList!59@imgWordTxt!83@imgKeywordList!19@
+isc|4|isContainsImgKeyword!50@isContainsImgKeyword!58@isContainsKeywordList!58@isContainsKeywordList!50@
+isi|2|isInCompanyList!50@isInCompanyList!58@
+key|2|keywordList!51@keywordList!59@
+mai|4|mainContainer!35@mainContainer!51@mainContainer!27@mainContainer!59@
+o|1|o!43@
+pke|3|pKeywordTxt!11@pKeywordTxt!75@pKeywordTxt2!11@
+pli|1|pList!75@
+rea|2|realAddr!35@realAddr!27@
+req|5|req!27@req!19@req!83@req!35@req!91@
+res|4|res!27@res!83@res!19@res!91@
+s|1|s!19@
+sen|5|sentence!35@sentence!27@sentence!83@sentence!19@sentence!91@
+src|6|srcList!59@srcList!27@src!91@srcList!51@src!83@src!27@
+sta|3|start!43@start!51@start!83@
+str|1|str1!27@
+tes|1|testText!43@
+tex|1|text!75@
+tot|1|totalText!43@
+url|15|url!83@url!51@url!35@urlT!83@url!91@url!27@url!59@url!75@urlTxt!51@urlT!75@urlT!51@urlTxt!43@urlTxt!83@urlTxt!75@urlT!43@
+wor|1|wordList!27@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

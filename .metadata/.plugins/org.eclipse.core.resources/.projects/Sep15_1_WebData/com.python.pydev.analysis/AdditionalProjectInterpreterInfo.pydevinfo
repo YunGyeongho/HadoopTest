@@ -1,0 +1,28 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep15_1_WebData\com.python.pydev.analysis\v2_indexcache
+p02_CSV|1663206546365009000|C:\Users\sundooedu\Desktop\wood\Sep15_1_WebData\p02_CSV.py
+p03_busDataContruction|1663294324161168000|C:\Users\sundooedu\Desktop\wood\Sep15_1_WebData\p03_busDataContruction.py
+p01_JSON|1663205152531646000|C:\Users\sundooedu\Desktop\wood\Sep15_1_WebData\p01_JSON.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+2=p02_CSV
+1=p03_busDataContruction
+3=p01_JSON
+-- END DICTIONARY
+-- START TREE 1
+9
+bus|1|busData!11@
+con|2|con!19@con!27@
+cur|2|cur!19@cur!27@
+f|2|f!19@f!11@
+huc|2|huc!11@huc!27@
+res|2|resbody!11@resbody!27@
+sql|2|sql!19@sql!27@
+wea|1|weatherData!27@
+yea|1|year!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,78 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep19_1_Numpy\com.python.pydev.analysis\v2_indexcache
+p01_Sympy|1663550576631895000|C:\Users\sundooedu\Desktop\wood\Sep19_1_Numpy\p01_Sympy.py
+sik|1663551336252041000|C:\Users\sundooedu\Desktop\wood\Sep19_1_Numpy\sik.py
+p04_subway|1663562452245153000|C:\Users\sundooedu\Desktop\wood\Sep19_1_Numpy\p04_subway.py
+p05_make|1663564951069071000|C:\Users\sundooedu\Desktop\wood\Sep19_1_Numpy\p05_make.py
+p03_basic|1663555834697244000|C:\Users\sundooedu\Desktop\wood\Sep19_1_Numpy\p03_basic.py
+p06_make2|1663567604055269000|C:\Users\sundooedu\Desktop\wood\Sep19_1_Numpy\p06_make2.py
+p02_basic|1663553853928515000|C:\Users\sundooedu\Desktop\wood\Sep19_1_Numpy\p02_basic.py
+p07_calc|1663571542306021000|C:\Users\sundooedu\Desktop\wood\Sep19_1_Numpy\p07_calc.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+4=p01_Sympy
+6=sik
+2=p05_make
+7=p04_subway
+5=p03_basic
+1=p06_make2
+8=p02_basic
+3=p07_calc
+-- END DICTIONARY
+-- START TREE 1
+49
+a|5|a!11@a!19@a!27@a!35@a!43@
+aa|1|aa!43@
+ab|1|ab!51@
+ali|2|alight!59@alightNpArray!59@
+ans|2|ans!59@ans!51@
+avg|1|avg!43@
+b|5|b!27@b!11@b!35@b!43@b!19@
+bb|1|bb!43@
+c|5|c!19@c!35@c!43@c!27@c!11@
+cc|1|cc!43@
+cou|1|count!51@
+d|4|d!35@d!27@d!11@d!19@
+dat|1|data!59@
+dd|2|dd!43@dd!35@
+e|3|e!35@e!43@e!27@
+ee|2|ee!43@ee!35@
+eng|1|eng!43@
+f|3|f!11@f!35@f!59@
+f2|1|f2!35@
+f3|1|f3!35@
+f4|1|f4!35@
+g|2|g!19@g!35@
+g2|1|g2!35@
+h|3|h!11@h!19@h!35@
+h2|1|h2!35@
+i|3|i!35@i!11@i!19@
+i2|1|i2!35@
+j|1|j!35@
+jj|1|jj!35@
+k1|1|k1!35@
+k2|1|k2!35@
+kk|1|kk!35@
+kor|1|kor!43@
+l|1|l!35@
+l2|1|l2!35@
+m|1|m!35@
+mat|1|mat!43@
+n|1|n!35@
+nam|2|nameNpArray!59@name!43@
+nn|1|nn!35@
+no|1|no!51@
+ove|1|over40!43@
+rid|2|ride!59@rideNpArray!59@
+s|1|s!43@
+s2|1|s2!43@
+s3|1|s3!43@
+sco|2|score!67@score2!67@
+sic|1|sick!51@
+x|1|x!51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

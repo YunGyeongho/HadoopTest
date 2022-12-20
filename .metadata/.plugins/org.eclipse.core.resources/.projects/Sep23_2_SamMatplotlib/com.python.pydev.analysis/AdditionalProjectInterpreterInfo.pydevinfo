@@ -1,0 +1,22 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep23_2_SamMatplotlib\com.python.pydev.analysis\v2_indexcache
+p01_sam|1663917440432443000|C:\Users\sundooedu\Desktop\wood\Sep23_2_SamMatplotlib\p01_sam.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=p01_sam
+-- END DICTIONARY
+-- START TREE 1
+7
+col|1|colors2!11@
+cou|1|count!11@
+d|1|d!11@
+df|1|df!11@
+e|1|e!11@
+fon|2|fontFile!11@fontName!11@
+nam|1|name!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

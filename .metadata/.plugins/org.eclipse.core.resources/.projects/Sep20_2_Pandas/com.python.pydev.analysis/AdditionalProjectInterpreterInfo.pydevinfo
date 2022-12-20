@@ -1,0 +1,37 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep20_2_Pandas\com.python.pydev.analysis\v2_indexcache
+p02_make|1663644567439602000|C:\Users\sundooedu\Desktop\wood\Sep20_2_Pandas\p02_make.py
+p04_csv|1663652249496136000|C:\Users\sundooedu\Desktop\wood\Sep20_2_Pandas\p04_csv.py
+p06_indexing|1663658250736948000|C:\Users\sundooedu\Desktop\wood\Sep20_2_Pandas\p06_indexing.py
+p01_basic|1663643753338692000|C:\Users\sundooedu\Desktop\wood\Sep20_2_Pandas\p01_basic.py
+p03_make|1663651040508046000|C:\Users\sundooedu\Desktop\wood\Sep20_2_Pandas\p03_make.py
+p05_append|1663653810925574000|C:\Users\sundooedu\Desktop\wood\Sep20_2_Pandas\p05_append.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+1=p02_make
+4=p04_csv
+6=p06_indexing
+2=p01_basic
+5=p03_make
+3=p05_append
+-- END DICTIONARY
+-- START TREE 1
+12
+a|3|a!11@a!19@a!27@
+b|3|b!19@b!11@b!27@
+c|2|c!11@c!27@
+con|1|con!35@
+d|2|d!11@d!35@
+df|1|df!43@
+dus|1|dustData!43@
+e|1|e!11@
+huc|1|huc!43@
+rb|1|rb!43@
+sql|1|sql!35@
+sub|1|subwayDF!51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Sep19_1_Numpy/p05-make.py&apos; to &apos;p05_make.py&apos;" description="Rename resource &apos;p05-make.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="p05-make.py" name="p05_make.py" stamp="1663564265440" updateReferences="true"/>
+</session>

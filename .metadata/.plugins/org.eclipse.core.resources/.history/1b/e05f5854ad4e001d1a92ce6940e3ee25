@@ -1,0 +1,58 @@
+# -*- coding:utf-8 -*-
+from flask.app import Flask
+from flask import request
+import ssl
+import AAFAdFilter.AdFilter as af
+import AAFNaiveBayes as an
+import AAFDAO
+import ResponseSet.responseSet as rs
+
+app = Flask(__name__)
+
+ssl.match_hostname = lambda cert, hostname: True
+ssl._create_default_https_context = ssl._create_unverified_context
+# except 방지를 위한 ssl 설정
+
+cm = AAFDAO.ConMongo("192.168.0.100")
+# mongoDB CRUD를 위한 Class
+# 응답 시 header 설정
+
+@app.route("/filter.judge.ai")
+def getJudgeUseFilter():
+    
+    url = request.args.get("url")
+    
+    try:
+        mainContainer = af.getMainContainer(af.getMainFrameSrc(url))
+        # API에서 응답 받은 url에서 mainFrameSrc를 가져오고 해당 src로 재요청을 하여 mainContainer 객체를 가져온다.
+    except Exception:
+        return rs.getJSON("요청 불가")
+        # 실제 서버 구축 시 except에 continue가 아닌 들어온 요청에 "불가"와 같은 응답으로 대체해야 한다. 
+    
+    srcList = af.getImgSrcList(mainContainer)
+    # 가져온 mainContainer에서 img 판독을 위한 srcList를 셋팅 해주는 함수를 부른다.
+    
+    if af.isInCompanyList(srcList):
+        cm.insertUrl(url, "광고")
+        # 실제 서버에선 광고 응답
+    else:
+        if af.isContainsImgKeyword(srcList):
+            cm.insertUrl(url, "광고")
+            
+            # 실제 서버에선 광고 응답
+        else:
+            if af.isContainsKeywordList(mainContainer):
+                cm.insertUrl(url, "광고")
+                # 실제 서버에선 광고 응답
+            else:
+                pass
+                # ai 판독
+
+@app.route("/judge.ai")
+def getJudgeOnlyAi():
+    
+    
+    return
+
+if __name__=="__main__":
+    app.run("0.0.0.0", 6833, debug=True)

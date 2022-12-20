@@ -1,0 +1,55 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep28_1_Test\com.python.pydev.analysis\v2_indexcache
+p01_KOR|1664325670103935000|C:\Users\sundooedu\Desktop\wood\Sep28_1_Test\p01_KOR.py
+p07_getLocation|1664344752284269000|C:\Users\sundooedu\Desktop\wood\Sep28_1_Test\p07_getLocation.py
+p05_samsamhane|1664338783427541000|C:\Users\sundooedu\Desktop\wood\Sep28_1_Test\p05_samsamhane.py
+p06_samsam|1664341930770927000|C:\Users\sundooedu\Desktop\wood\Sep28_1_Test\p06_samsam.py
+p02_KOR_pyHanspell|1664327501428119000|C:\Users\sundooedu\Desktop\wood\Sep28_1_Test\p02_KOR_pyHanspell.py
+p03_KOR_jamo|1664329035702715000|C:\Users\sundooedu\Desktop\wood\Sep28_1_Test\p03_KOR_jamo.py
+unicode|1664328025737794000|C:\Users\sundooedu\Desktop\wood\Sep28_1_Test\unicode.py
+p04_naverNews|1664334939442732000|C:\Users\sundooedu\Desktop\wood\Sep28_1_Test\p04_naverNews.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+5=p01_KOR
+7=p07_getLocation
+2=p05_samsamhane
+4=p02_KOR_pyHanspell
+3=p03_KOR_jamo
+1=unicode
+6=p04_naverNews
+-- END DICTIONARY
+-- START TREE 1
+27
+__a|1|__all__!11@
+cha|7|CHARSET!11@CHAR_INITIALS!11@CHAR_SETS!11@CHAR_INDICES!11@CHAR_MEDIALS!11@CHAR_FINALS!11@CHAR_LISTS!11@
+che|1|check_hangul!10@
+d|5|d!19@d!27@d!35@d!43@d!51@
+dat|1|data!51@
+dd|1|dd!43@
+df|1|df!51@
+f|3|f!59@f!19@f!51@
+f2|1|f2!19@
+fin|1|FINAL!11@
+get|1|get_jamo_type!10@
+h|1|h!59@
+hc|1|hc!59@
+ini|1|INITIAL!11@
+is_|7|is_supported_hangul!10@is_hangul_syllable!10@is_hangul_jamo_exta!10@is_hangul_compat_jamo!10@is_hangul_jamo_extb!10@is_hangul_jamo!10@is_hangul!10@
+joi|2|join_jamos_char!10@join_jamos!10@
+l|1|l!51@
+lin|1|line!51@
+med|1|MEDIAL!11@
+o|3|o!19@o!43@o!51@
+r|3|r!35@r!43@r!27@
+r2|1|r2!27@
+r3|1|r3!27@
+rb|1|rb!59@
+spl|2|split_syllables!10@split_syllable_char!10@
+wha|2|what2!59@what!59@
+wor|1|word!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

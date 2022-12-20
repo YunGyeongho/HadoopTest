@@ -1,0 +1,43 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Otc05_2_DeepLearning\com.python.pydev.analysis\v2_indexcache
+p01_tensorflow_basic|1664933982362996000|C:\Users\sundooedu\Desktop\wood\Otc05_2_DeepLearning\p01_tensorflow_basic.py
+p02_tensorflow_regression|1664937175767585000|C:\Users\sundooedu\Desktop\wood\Otc05_2_DeepLearning\p02_tensorflow_regression.py
+p03_tensorflow_dust|1664938013040344000|C:\Users\sundooedu\Desktop\wood\Otc05_2_DeepLearning\p03_tensorflow_dust.py
+p04_tensorflow_ANN|1664947356557990000|C:\Users\sundooedu\Desktop\wood\Otc05_2_DeepLearning\p04_tensorflow_ANN.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=p01_tensorflow_basic
+3=p02_tensorflow_regression
+1=p03_tensorflow_dust
+4=p04_tensorflow_ANN
+-- END DICTIONARY
+-- START TREE 1
+22
+a|4|a!11@a!19@a!27@a!35@
+ao|3|ao!27@ao!35@ao!11@
+b|4|b!11@b!19@b!27@b!35@
+c|1|c!19@
+cre|1|cResult!19@
+d|4|d!19@d!27@d!35@d!11@
+df|1|df!11@
+dis|3|distance!27@distance!35@distance!11@
+dre|1|dResult!19@
+dus|1|dustData!11@
+goa|3|goal!11@goal!27@goal!35@
+huc|1|huc!11@
+lab|1|label!35@
+new|3|newX!27@newMovie!35@newX!11@
+rb|1|rb!11@
+res|3|result!11@result!27@result!35@
+s|4|s!11@s!19@s!27@s!35@
+sik|3|sik!27@sik!35@sik!11@
+x|3|x!27@x!11@x!35@
+xda|3|xData!11@xData!27@xData!35@
+y|3|y!11@y!27@y!35@
+yda|3|yData!11@yData!27@yData!35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

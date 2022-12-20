@@ -1,0 +1,33 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep15_2_KakaoSearchApi\com.python.pydev.analysis\v2_indexcache
+createCSV|1663212518225934000|C:\Users\sundooedu\Desktop\wood\Sep15_2_KakaoSearchApi\createCSV.py
+test|1663286948042809000|C:\Users\sundooedu\Desktop\wood\Sep15_2_KakaoSearchApi\test.py
+k_blog|1663211589700581000|C:\Users\sundooedu\Desktop\wood\Sep15_2_KakaoSearchApi\k_blog.py
+stringCleaner|1663119449864000000|C:\Users\sundooedu\Desktop\wood\Sep15_2_KakaoSearchApi\stringCleaner.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=createCSV
+2=k_blog
+3=stringCleaner
+4=StringCleaner
+-- END DICTIONARY
+-- START TREE 1
+11
+b|1|b!11@
+blo|3|blogData!11@blog!19@blogs!19@
+con|2|con!11@con!19@
+db|2|db!19@db!11@
+f|1|f!11@
+h|1|h!19@
+huc|1|huc!19@
+now|1|now!19@
+q|1|q!19@
+res|1|resbody!19@
+str|1|StringCleaner!25@
+-- END TREE
+-- START TREE 2
+1
+cle|1|clean!4&26@
+-- END TREE

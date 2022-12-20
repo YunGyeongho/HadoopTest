@@ -1,0 +1,25 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Otc12_3_ES\com.python.pydev.analysis\v2_indexcache
+esinpython|1665542556888190000|C:\Users\sundooedu\Desktop\wood\Otc12_3_ES\esinpython.py
+esMain|1665543939955902000|C:\Users\sundooedu\Desktop\wood\Otc12_3_ES\esMain.py
+esMain2|1665544228462865000|C:\Users\sundooedu\Desktop\wood\Otc12_3_ES\esMain2.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=esinpython
+2=esMain
+1=esMain2
+-- END DICTIONARY
+-- START TREE 1
+6
+d|2|d!11@d!19@
+e|2|e!11@e!19@
+h|1|h!27@
+hc|1|hc!27@
+req|1|reqBody!27@
+res|3|resBody!27@result!11@result!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

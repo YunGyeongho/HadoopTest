@@ -1,0 +1,51 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep06_1_PP\com.python.pydev.analysis\v2_indexcache
+p06_collection|1662444065661380000|C:\Users\sundooedu\Desktop\wood\Sep06_1_PP\p06_collection.py
+p05_operator2|1662432251864869000|C:\Users\sundooedu\Desktop\wood\Sep06_1_PP\p05_operator2.py
+p10_cbvcbr|1662529777449616000|C:\Users\sundooedu\Desktop\wood\Sep06_1_PP\p10_cbvcbr.py
+p08_conditonalStmt|1662446027071742000|C:\Users\sundooedu\Desktop\wood\Sep06_1_PP\p08_conditonalStmt.py
+p07_function|1662444996915153000|C:\Users\sundooedu\Desktop\wood\Sep06_1_PP\p07_function.py
+p01_print|1662424885083887000|C:\Users\sundooedu\Desktop\wood\Sep06_1_PP\p01_print.py
+p03_consoleinput|1662428150445138000|C:\Users\sundooedu\Desktop\wood\Sep06_1_PP\p03_consoleinput.py
+p04_operator|1662428396243982000|C:\Users\sundooedu\Desktop\wood\Sep06_1_PP\p04_operator.py
+p09_repeatStmt|1662454233332566000|C:\Users\sundooedu\Desktop\wood\Sep06_1_PP\p09_repeatStmt.py
+p03_variable|1662426552022762000|C:\Users\sundooedu\Desktop\wood\Sep06_1_PP\p03_variable.py
+rsp|1662516815618907000|C:\Users\sundooedu\Desktop\wood\Sep06_1_PP\rsp.py
+-- END DISKCACHE
+-- START DICTIONARY
+9
+5=p06_collection
+4=p05_operator2
+1=p10_cbvcbr
+9=p08_conditonalStmt
+7=p07_function
+2=p04_operator
+8=p09_repeatStmt
+3=p03_variable
+6=rsp
+-- END DICTIONARY
+-- START TREE 1
+18
+a|3|a!11@a!19@a!27@
+age|1|age!35@
+b|2|b!43@b!19@
+com|1|comFire!50@
+d|1|d!11@
+e|2|e!43@e!11@
+get|2|getHab!58@getCalcResult!58@
+h|1|h!35@
+han|1|handTable!51@
+hei|1|height!35@
+jen|1|jEnd!67@
+jud|1|judge!50@
+nam|1|name!35@
+pri|2|printResult!50@printHand!50@
+q|1|q!59@
+sco|1|score!75@
+tes|2|test!58@test!10@
+use|1|userFire!50@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

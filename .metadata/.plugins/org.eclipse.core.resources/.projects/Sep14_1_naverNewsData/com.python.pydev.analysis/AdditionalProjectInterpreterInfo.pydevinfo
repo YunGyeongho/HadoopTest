@@ -1,0 +1,32 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep14_1_naverNewsData\com.python.pydev.analysis\v2_indexcache
+MakeCSVfromNews|1663122440631514000|C:\Users\sundooedu\Desktop\wood\Sep14_1_naverNewsData\MakeCSVfromNews.py
+stringCleaner|1663119449864121000|C:\Users\sundooedu\Desktop\wood\Sep14_1_naverNewsData\stringCleaner.py
+dataConstruction|1663209610145322000|C:\Users\sundooedu\Desktop\wood\Sep14_1_naverNewsData\dataConstruction.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=MakeCSVfromNews
+3=stringCleaner
+1=dataConstruction
+4=StringCleaner
+-- END DICTIONARY
+-- START TREE 1
+11
+con|2|con!11@con!19@
+db|2|db!11@db!19@
+f|1|f!19@
+h|1|h!11@
+hc|1|hc!11@
+n|1|n!19@
+new|1|news!19@
+q|1|q!11@
+r|1|r!11@
+res|1|resBody!11@
+str|1|StringCleaner!25@
+-- END TREE
+-- START TREE 2
+1
+cle|1|clean!4&26@
+-- END TREE

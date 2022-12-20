@@ -1,0 +1,21 @@
+# -*- coding:utf-8 -*-
+from bs4 import BeautifulSoup
+import requests
+from PIL import Image
+import urllib.request
+from io import BytesIO
+import pytesseract as pt
+import ssl
+
+header = {"User-agent": "Mozilla/5.0"} 
+ssl.match_hostname = lambda cert, hostname: True
+ssl._create_default_https_context = ssl._create_unverified_context
+
+
+s = "https://postfiles.pstatic.net/MjAyMjAzMzBfMTY4/MDAxNjQ4NjA4MjIyNDA1.r3z8DA3G88kkdrFIgxHYWJ_vdlE3RUNV_LjXQmLMu3gg.jrdWq2Wm45KMfNAnSvF0Q7Oy9xbK63IBhwPNnAyAxj8g.JPEG.i7866/dreammaam1022_33.jpg?type=w966"
+req = urllib.request.Request(s, headers= header)
+res = urllib.request.urlopen(req).read()
+pt.pytesseract.tesseract_cmd = R'C:\Program Files\Tesseract-OCR\tesseract'
+sentence = pt.image_to_string(Image.open(BytesIO(res)), lang='kor')
+print(sentence)
+print(s)

@@ -1,0 +1,31 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep26_1_Matplotlib\com.python.pydev.analysis\v2_indexcache
+p03_cspfScatter|1664156577261725000|C:\Users\sundooedu\Desktop\wood\Sep26_1_Matplotlib\p03_cspfScatter.py
+p01_matplotlib|1664152170812497000|C:\Users\sundooedu\Desktop\wood\Sep26_1_Matplotlib\p01_matplotlib.py
+p02_matplotlib|1664155749884861000|C:\Users\sundooedu\Desktop\wood\Sep26_1_Matplotlib\p02_matplotlib.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=p03_cspfScatter
+1=p01_matplotlib
+2=p02_matplotlib
+-- END DICTIONARY
+-- START TREE 1
+12
+dat|1|data!11@
+df|2|df!19@df!27@
+f|2|f!27@f!11@
+fan|1|fan!27@
+fon|4|fontFile!19@fontName!19@fontName!27@fontFile!27@
+frn|1|frn!27@
+huc|1|huc!11@
+lin|4|lineData!19@lineLabel!27@lineLabel!19@lineData!27@
+pan|1|pan!27@
+prn|1|prn!27@
+rb|1|rb!11@
+yda|4|yData!19@yData3!19@yData2!19@yData4!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

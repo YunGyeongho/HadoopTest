@@ -1,0 +1,43 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep20_1_Numpy\com.python.pydev.analysis\v2_indexcache
+p04_sort|1663641352024290000|C:\Users\sundooedu\Desktop\wood\Sep20_1_Numpy\p04_sort.py
+p02_kmaWeather|1663637949260610000|C:\Users\sundooedu\Desktop\wood\Sep20_1_Numpy\p02_kmaWeather.py
+p05_modify|1663641558752883000|C:\Users\sundooedu\Desktop\wood\Sep20_1_Numpy\p05_modify.py
+p03_set|1663639706079094000|C:\Users\sundooedu\Desktop\wood\Sep20_1_Numpy\p03_set.py
+p01_statixtics|1663634325278694000|C:\Users\sundooedu\Desktop\wood\Sep20_1_Numpy\p01_statixtics.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+1=p04_sort
+3=p05_modify
+5=p02_kmaWeather
+2=p03_set
+4=p01_statixtics
+-- END DICTIONARY
+-- START TREE 1
+20
+a|4|a!11@a!19@a!27@a!35@
+a2|1|a2!35@
+aa|1|aa!11@
+b|4|b!35@b!19@b!27@b!11@
+c|3|c!11@c!35@c!19@
+d|2|d!19@d!35@
+d2|1|d2!35@
+e|3|e!35@e!11@e!19@
+e2|1|e2!35@
+f|4|f!43@f!19@f!11@f!35@
+g|2|g!35@g!19@
+h|1|h!35@
+h2|1|h2!35@
+i|1|i!35@
+j|1|j!35@
+k|1|k!35@
+lin|1|line!43@
+sum|1|sumAvgTemp!43@
+tem|4|tempavg!43@tempSum!43@tempCount!43@temp2!43@
+tim|2|time2!43@time!43@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

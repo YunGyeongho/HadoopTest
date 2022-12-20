@@ -1,0 +1,17 @@
+# -*- coding:utf-8 -*-
+from bs4 import BeautifulSoup
+import ssl
+import requests
+import urllib.request
+import pytesseract as pt
+from PIL import Image
+from io import BytesIO
+
+class AdFilter:
+    ssl.match_hostname = lambda cert, hostname: True
+    ssl._create_default_https_context = ssl._create_unverified_context
+    
+    def __init__(self):
+        self.header = {"User-agent": "Mozilla/5.0"}
+        
+        

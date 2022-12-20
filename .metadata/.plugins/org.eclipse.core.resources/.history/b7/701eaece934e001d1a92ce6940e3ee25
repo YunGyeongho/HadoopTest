@@ -1,0 +1,23 @@
+# -*- coding:utf-8 -*-
+from flask.app import Flask
+
+
+
+app = Flask(__name__)
+
+
+
+@app.route("/filter.judge.ai")
+def getJudgeUseFilter():
+    
+    
+    return
+
+@app.route("/judge.ai")
+def getJudgeOnlyAi():
+    
+    
+    return
+
+if __name__=="__main__":
+    app.run("0.0.0.0", 6833, debug=True)

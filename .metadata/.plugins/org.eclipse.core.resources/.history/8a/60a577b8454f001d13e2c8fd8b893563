@@ -1,0 +1,76 @@
+# -*- coding:utf-8 -*-
+from flask.app import Flask
+from flask import request
+import ssl
+import AAFAdFilter
+import AAFNaiveBayes as an
+import AAFDAO
+import ResponseSet.responseSet as rs
+
+app = Flask(__name__)
+
+ssl.match_hostname = lambda cert, hostname: True
+ssl._create_default_https_context = ssl._create_unverified_context
+# except 방지를 위한 ssl 설정
+
+cm = AAFDAO.ConMongo("192.168.0.100")
+# mongoDB CRUD를 위한 Class
+# 응답 시 header 설정
+af = AAFAdFilter.AdFilter()
+# ad filter 객체 불러옴
+ai = an.AiAdFilter()
+# ai 객체 불러옴
+ai.trainAi(cm.findAllContent())
+# ai 교육
+ai.testOkt()
+# okt 첫 구동시간이 오래 걸리기에 미리 한번 호출 함.
+
+
+@app.route("/filter.judge.ai")
+def getJudgeUseFilter():
+    
+    url = request.args.get("url")
+    
+    try:
+        mainContainer = af.getMainContainer(af.getMainFrameSrc(url))
+        # API에서 응답 받은 url에서 mainFrameSrc를 가져오고 해당 src로 재요청을 하여 mainContainer 객체를 가져온다.
+    except Exception:
+        return rs.getJSON("요청 불가")
+        # 실제 서버 구축 시 except에 continue가 아닌 들어온 요청에 "불가"와 같은 응답으로 대체해야 한다. 
+    
+    srcList = af.getImgSrcList(mainContainer)
+    # 가져온 mainContainer에서 img 판독을 위한 srcList를 셋팅 해주는 함수를 부른다.
+    
+    if af.isInCompanyList(srcList):
+        cm.insertUrl(url, "광고")
+        return rs.getJSON("광고")
+    
+    else:
+        
+        if af.containsImgKeyword(srcList):
+            cm.insertUrl(url, "광고")
+            return rs.getJSON("광고")
+            
+        else:
+            
+            if af.containsKeywordList(mainContainer):
+                cm.insertUrl(url, "광고")
+                return rs.getJSON("광고")
+            
+            else:
+                result, content = ai.AiPredict(mainContainer.text)
+                cm.insertWithContent(url, content, result)
+                if result == "광고 의심":
+                    return rs.getJSON("광고 확률 높음")
+                else:
+                    return rs.getJSON("광고 확률 낮음")
+                    
+
+@app.route("/judge.ai")
+def getJudgeOnlyAi():
+    
+    #url 받은 거로 mongodb에서 content 가져오고 그걸로 ai 함수 이용해서 판정 후 return 구현
+    return
+
+if __name__=="__main__":
+    app.run("0.0.0.0", 6833, debug=True)

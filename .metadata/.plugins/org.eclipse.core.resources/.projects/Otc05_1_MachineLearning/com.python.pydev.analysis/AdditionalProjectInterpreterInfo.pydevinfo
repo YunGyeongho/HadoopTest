@@ -1,0 +1,28 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Otc05_1_MachineLearning\com.python.pydev.analysis\v2_indexcache
+p02_decisionColor|1664932327092898000|C:\Users\sundooedu\Desktop\wood\Otc05_1_MachineLearning\p02_decisionColor.py
+p01_decisionTree|1664929852858678000|C:\Users\sundooedu\Desktop\wood\Otc05_1_MachineLearning\p01_decisionTree.py
+Otc05_2_DeepLearning|1664932793806168000|C:\Users\sundooedu\Desktop\wood\Otc05_1_MachineLearning\Otc05_2_DeepLearning.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=p02_decisionColor
+2=p01_decisionTree
+-- END DICTIONARY
+-- START TREE 1
+10
+cn|2|cn!11@cn!19@
+db|1|db!11@
+df|2|df!11@df!19@
+dtc|2|dtc!19@dtc!11@
+dus|1|dustData!19@
+huc|1|huc!19@
+lab|2|label!11@label!19@
+rb|1|rb!19@
+tra|2|trainData!11@trainData!19@
+wea|1|weathers!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

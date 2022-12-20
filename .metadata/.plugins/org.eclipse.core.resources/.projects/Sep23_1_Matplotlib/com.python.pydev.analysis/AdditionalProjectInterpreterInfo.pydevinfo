@@ -1,0 +1,42 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep23_1_Matplotlib\com.python.pydev.analysis\v2_indexcache
+p05_full|1663914367052337000|C:\Users\sundooedu\Desktop\wood\Sep23_1_Matplotlib\p05_full.py
+p01_plot|1663898935037527000|C:\Users\sundooedu\Desktop\wood\Sep23_1_Matplotlib\p01_plot.py
+p04_bar2|1663904762491077000|C:\Users\sundooedu\Desktop\wood\Sep23_1_Matplotlib\p04_bar2.py
+p03_bar|1663903925582765000|C:\Users\sundooedu\Desktop\wood\Sep23_1_Matplotlib\p03_bar.py
+p02_weatherMap|1663902375893061000|C:\Users\sundooedu\Desktop\wood\Sep23_1_Matplotlib\p02_weatherMap.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+4=p01_plot
+2=p04_bar2
+3=p03_bar
+1=p02_weatherMap
+-- END DICTIONARY
+-- START TREE 1
+20
+con|2|convertDate!10@con!11@
+df|2|df!11@df!19@
+dus|1|dustData!19@
+fon|8|fontFile!11@fontName!11@fontFile!19@fontName!19@fontFile!27@fontName!27@fontFile!35@fontName!35@
+huc|1|huc!19@
+hum|1|humi!11@
+loc|1|loc!19@
+p1|2|p1!35@p1!11@
+p2|2|p2!11@p2!35@
+pm1|1|pm10!19@
+pm2|1|pm25!19@
+rb|1|rb!19@
+sp2|1|sp2Conf!11@
+sql|1|sql!11@
+sub|1|subplot2Conf!35@
+tem|1|temp!11@
+tim|1|time!11@
+xda|3|xData!19@xData!35@xData!27@
+xla|1|xLabel!27@
+yda|4|yData!35@yData!27@yData2!27@yData2!35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

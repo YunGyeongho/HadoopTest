@@ -1,0 +1,41 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep22_1_Pandas\com.python.pydev.analysis\v2_indexcache
+p03_function|1663814317583369000|C:\Users\sundooedu\Desktop\wood\Sep22_1_Pandas\p03_function.py
+p08_pratice|1663891413368179000|C:\Users\sundooedu\Desktop\wood\Sep22_1_Pandas\p08_pratice.py
+p05_molla|1663818029966945000|C:\Users\sundooedu\Desktop\wood\Sep22_1_Pandas\p05_molla.py
+p01_unique|1663806984407143000|C:\Users\sundooedu\Desktop\wood\Sep22_1_Pandas\p01_unique.py
+p07_hadoop|1663835419362705000|C:\Users\sundooedu\Desktop\wood\Sep22_1_Pandas\p07_hadoop.py
+p04_function|1663816120871073000|C:\Users\sundooedu\Desktop\wood\Sep22_1_Pandas\p04_function.py
+p06_merge|1663827285535984000|C:\Users\sundooedu\Desktop\wood\Sep22_1_Pandas\p06_merge.py
+p02_remove|1663810294771014000|C:\Users\sundooedu\Desktop\wood\Sep22_1_Pandas\p02_remove.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+6=p03_function
+8=p08_pratice
+5=p05_molla
+2=p01_unique
+7=p07_hadoop
+1=p06_merge
+4=p04_function
+3=p02_remove
+-- END DICTIONARY
+-- START TREE 1
+12
+cit|1|city!11@
+com|2|company!11@companyCityDF!11@
+con|2|con!19@con!27@
+dat|1|data!35@
+df|6|df!27@df!43@df!19@df!51@df!59@df!67@
+f|1|f!35@
+get|1|getGu!42@
+huc|1|huc!35@
+new|1|newDF!11@
+rb|1|rb!35@
+sna|2|snackCompanyDF!11@snack!11@
+sql|1|sql!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

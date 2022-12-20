@@ -1,0 +1,28 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep30_1_MachineLearning\com.python.pydev.analysis\v2_indexcache
+p01_kMeans|1664505148984898000|C:\Users\sundooedu\Desktop\wood\Sep30_1_MachineLearning\p01_kMeans.py
+p02_kMeans|1664507637567603000|C:\Users\sundooedu\Desktop\wood\Sep30_1_MachineLearning\p02_kMeans.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=p01_kMeans
+2=p02_kMeans
+-- END DICTIONARY
+-- START TREE 1
+11
+a|1|a!11@
+b|1|b!11@
+df|2|df!19@df!11@
+df2|1|df2!19@
+fon|4|fontFile!19@fontName!19@fontFile!11@fontName!11@
+km|2|km!19@km!11@
+knc|1|knc!11@
+lab|1|label!11@
+new|1|newdata!11@
+tra|2|trainData!19@trainData!11@
+wha|1|what!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

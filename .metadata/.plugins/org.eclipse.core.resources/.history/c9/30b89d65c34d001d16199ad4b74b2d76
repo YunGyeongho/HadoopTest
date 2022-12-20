@@ -1,0 +1,23 @@
+# -*- coding:utf-8 -*-
+from bs4 import BeautifulSoup
+import requests
+from PIL import Image
+import urllib.request
+from io import BytesIO
+import pytesseract as pt
+import ssl
+
+header = {"User-agent": "Mozilla/5.0"} 
+ssl.match_hostname = lambda cert, hostname: True
+ssl._create_default_https_context = ssl._create_unverified_context
+
+
+s = "https://postfiles.pstatic.net/MjAyMjEwMDRfMjA5/MDAxNjY0ODQ3Mzg0NDg3.zOM2dso-fzNb5cMHwuFcbH5lZLg7gCYwdzSmR4vttGYg.C5rgVpB4UehtrhJqBjK_nx8LRr5NB95vyjZOk_oMd4Ag.JPEG.syaysa1/187900_footer.jpg?type=w966"
+req = urllib.request.Request(s, headers= header)
+res = urllib.request.urlopen(req).read()
+pt.pytesseract.tesseract_cmd = R'C:\Program Files\Tesseract-OCR\tesseract'
+sentence = pt.image_to_string(Image.open(BytesIO(res)), lang='kor').replace("\n", "").replace("", "").replace("\t", "").replace(" ", "")
+print(sentence)
+
+# https://postfiles.pstatic.net/MjAyMjEwMDRfMjA5/MDAxNjY0ODQ3Mzg0NDg3.zOM2dso-fzNb5cMHwuFcbH5lZLg7gCYwdzSmR4vttGYg.C5rgVpB4UehtrhJqBjK_nx8LRr5NB95vyjZOk_oMd4Ag.JPEG.syaysa1/187900_footer.jpg?type=w966
+# https://postfiles.pstatic.net/MjAyMjEwMDRfMjA5/MDAxNjY0ODQ3Mzg0NDg3.zOM2dso-fzNb5cMHwuFcbH5lZLg7gCYwdzSmR4vttGYg.C5rgVpB4UehtrhJqBjK_nx8LRr5NB95vyjZOk_oMd4Ag.JPEG.syaysa1/187900_footer.jpg?type=w966

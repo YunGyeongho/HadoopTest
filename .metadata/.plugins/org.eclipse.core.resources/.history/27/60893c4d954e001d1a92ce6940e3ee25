@@ -1,0 +1,49 @@
+# -*- coding:utf-8 -*-
+from flask.app import Flask
+from flask import request
+import ssl
+import AAFAdFilter.AdFilter as af
+import AAFNaiveBayes as an
+
+app = Flask(__name__)
+ssl.match_hostname = lambda cert, hostname: True
+ssl._create_default_https_context = ssl._create_unverified_context
+
+
+@app.route("/filter.judge.ai")
+def getJudgeUseFilter():
+    
+    url = request.args.get("url")
+    
+    try:
+        mainContainer = af.getMainContainer(af.getMainFrameSrc(url))
+        # API에서 응답 받은 url에서 mainFrameSrc를 가져오고 해당 src로 재요청을 하여 mainContainer 객체를 가져온다.
+    except Exception:
+        continue
+        # except는 요청 과정에서 비공개글로 전환 했거나 mainContainer가 아닌 postViewArea가 있는 경우 등 너무 많은 변수가 있어 넘기기로 했다.
+        # 실제 서버 구축 시 except에 continue가 아닌 들어온 요청에 "불가"와 같은 응답으로 대체해야 한다. 
+    
+    srcList = af.getImgSrcList(mainContainer)
+    # 가져온 mainContainer에서 img 판독을 위한 srcList를 셋팅 해주는 함수를 부른다.
+    
+    if af.isInCompanyList(srcList):
+        
+        # 실제 서버에선 광고 응답
+    else:
+        if af.isContainsImgKeyword(srcList):
+            # 실제 서버에선 광고 응답
+        else:
+            if af.isContainsKeywordList(mainContainer):
+                # 실제 서버에선 광고 응답
+            else:
+                # ai 판독
+    return
+
+@app.route("/judge.ai")
+def getJudgeOnlyAi():
+    
+    
+    return
+
+if __name__=="__main__":
+    app.run("0.0.0.0", 6833, debug=True)

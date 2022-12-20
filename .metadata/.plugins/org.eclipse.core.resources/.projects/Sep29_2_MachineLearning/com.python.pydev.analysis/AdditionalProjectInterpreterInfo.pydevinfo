@@ -1,0 +1,46 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep29_2_MachineLearning\com.python.pydev.analysis\v2_indexcache
+p03_AI_WAS|1664959888852224000|C:\Users\sundooedu\Desktop\wood\Sep29_2_MachineLearning\p03_AI_WAS.py
+p02_kNN|1664419312813235000|C:\Users\sundooedu\Desktop\wood\Sep29_2_MachineLearning\p02_kNN.py
+p00_WAS|1664497245190156000|C:\Users\sundooedu\Desktop\wood\Sep29_2_MachineLearning\p00_WAS.py
+p01_kNN|1664414252350568000|C:\Users\sundooedu\Desktop\wood\Sep29_2_MachineLearning\p01_kNN.py
+p04_forAI|1664516495980949000|C:\Users\sundooedu\Desktop\wood\Sep29_2_MachineLearning\p04_forAI.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+4=p03_AI_WAS
+3=p02_kNN
+2=p00_WAS
+1=p01_kNN
+5=p04_forAI
+-- END DICTIONARY
+-- START TREE 1
+23
+a|1|a!11@
+ai|1|ai!18@
+air|1|air!27@
+app|2|app!19@app!35@
+avg|1|avgColor!43@
+b|2|b!11@b!43@
+c|1|c!43@
+dat|2|data!43@data!11@
+day|1|day!35@
+df|2|df!19@df!27@
+g|1|g!43@
+gam|1|game!27@
+get|2|getWeatherData!34@getColor!34@
+ice|1|ice!27@
+knc|4|knc!27@knc!11@knc!19@knc!35@
+lab|3|label!11@label!27@label!19@
+mms|3|mms!27@mms!19@mms!35@
+myd|1|myData!11@
+pre|1|predictData!27@
+r|1|r!43@
+res|2|result!27@result!11@
+tra|3|trainData!19@trainData!27@trainAI!34@
+wea|1|weathers!35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

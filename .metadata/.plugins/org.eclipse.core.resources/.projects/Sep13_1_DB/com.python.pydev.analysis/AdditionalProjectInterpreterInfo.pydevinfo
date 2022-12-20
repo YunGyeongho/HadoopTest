@@ -1,0 +1,39 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep13_1_DB\com.python.pydev.analysis\v2_indexcache
+p07_mongoDBselect|1663040777913111000|C:\Users\sundooedu\Desktop\wood\Sep13_1_DB\p07_mongoDBselect.py
+p08_mongoDBupdate|1663040777904074000|C:\Users\sundooedu\Desktop\wood\Sep13_1_DB\p08_mongoDBupdate.py
+p09_mongoDBdelete|1663040945925952000|C:\Users\sundooedu\Desktop\wood\Sep13_1_DB\p09_mongoDBdelete.py
+p01_oracleDBConnect|1663033188818596000|C:\Users\sundooedu\Desktop\wood\Sep13_1_DB\p01_oracleDBConnect.py
+p03_oracleDBselect|1663035431186649000|C:\Users\sundooedu\Desktop\wood\Sep13_1_DB\p03_oracleDBselect.py
+p06_mongoDBinsert|1663039327549590000|C:\Users\sundooedu\Desktop\wood\Sep13_1_DB\p06_mongoDBinsert.py
+p05_mongoDBconnect|1663038218268901000|C:\Users\sundooedu\Desktop\wood\Sep13_1_DB\p05_mongoDBconnect.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+4=p07_mongoDBselect
+1=p09_mongoDBdelete
+3=p08_mongoDBupdate
+2=p01_oracleDBConnect
+5=p03_oracleDBselect
+7=p06_mongoDBinsert
+6=p05_mongoDBconnect
+-- END DICTIONARY
+-- START TREE 1
+12
+con|7|con!11@con!19@con!27@con!35@con!43@con!51@con!59@
+cur|2|cur!19@cur!43@
+db|5|db!59@db!51@db!35@db!27@db!11@
+men|1|menus!35@
+n|3|n!19@n!59@n!27@
+p|3|p!19@p!59@p!27@
+p1|1|p1!11@
+p2|1|p2!11@
+r|3|r!59@r!27@r!11@
+s|1|s!27@
+sql|2|sql!43@sql!19@
+w|2|w!27@w!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

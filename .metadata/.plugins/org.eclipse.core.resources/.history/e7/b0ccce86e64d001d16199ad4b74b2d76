@@ -1,0 +1,12 @@
+# -*- coding:utf-8 -*-
+import pandas as pd
+
+df = pd.read_csv("D:/haheehoData/filterResult2.txt", names=["번호", "url", "결과"])
+print(df[df["결과"] == "textKeyword에서 걸림"])
+
+# df = df[df["결과"] == "광고 아님"]["url"]
+# notAdUrl = df.to_numpy()
+# 
+# 
+# for url in notAdUrl:
+#     print(url)

@@ -1,0 +1,62 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\AiAdFilter\com.python.pydev.analysis\v2_indexcache
+AAFMain|1666146861223544000|C:\Users\sundooedu\Desktop\wood\AiAdFilter\AAFMain.py
+AAFNaiveBayes|1666146342414687000|C:\Users\sundooedu\Desktop\wood\AiAdFilter\AAFNaiveBayes.py
+AAFDAO|1666146015837335000|C:\Users\sundooedu\Desktop\wood\AiAdFilter\AAFDAO.py
+AAFAdFilter|1666144105767244000|C:\Users\sundooedu\Desktop\wood\AiAdFilter\AAFAdFilter.py
+ResponseSet|1666146922673778000|C:\Users\sundooedu\Desktop\wood\AiAdFilter\ResponseSet.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+1=AAFMain
+3=AAFNaiveBayes
+6=AdFilter
+4=AAFDAO
+7=AiAdFilter
+12=ConMongo.__init__
+2=AAFAdFilter
+5=ResponseSet
+8=ConMongo
+9=AdFilter.__init__
+10=AiAdFilter.__init__
+11=responseSet
+-- END DICTIONARY
+-- START TREE 1
+14
+ad|1|ad!11@
+ada|1|adAlert!11@
+adf|1|AdFilter!17@
+adh|1|adHigh!11@
+adl|1|adLow!11@
+af|1|af!11@
+ai|1|ai!11@
+aia|1|AiAdFilter!25@
+app|1|app!11@
+cm|1|cm!11@
+con|1|ConMongo!33@
+get|2|getJudgeOnlyAi!10@getJudgeUseFilter!10@
+res|1|responseSet!41@
+rs|1|rs!11@
+-- END TREE
+-- START TREE 2
+18
+__i|3|__init__!6&18@__init__!7&26@__init__!8&34@
+aip|1|AiPredict!7&26@
+com|1|companyList!9&19@
+con|2|containsImgKeyword!6&18@containsKeywordList!6&18@
+cv|1|cv!10&27@
+fin|2|findAllContent!8&34@findContent!8&34@
+get|4|getImgSrcList!6&18@getResponse!11&42@getMainContainer!6&18@getMainFrameSrc!6&18@
+hea|1|header!9&19@
+img|1|imgKeywordList!9&19@
+ins|2|insertUrl!8&34@insertWithContent!8&34@
+ip|1|ip!12&35@
+isi|1|isInCompanyList!6&18@
+key|1|keywordList!9&19@
+mnb|1|mnb!10&27@
+okt|1|okt!10&27@
+tes|1|testOkt!7&26@
+tra|1|trainAi!7&26@
+upd|1|updateLabel!8&34@
+-- END TREE

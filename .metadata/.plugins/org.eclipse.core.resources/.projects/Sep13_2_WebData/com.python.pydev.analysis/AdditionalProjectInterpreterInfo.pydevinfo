@@ -1,0 +1,27 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep13_2_WebData\com.python.pydev.analysis\v2_indexcache
+p01_getKMA_XML|1663049506073223000|C:\Users\sundooedu\Desktop\wood\Sep13_2_WebData\p01_getKMA_XML.py
+p02_getKMA_XML|1663053768374176000|C:\Users\sundooedu\Desktop\wood\Sep13_2_WebData\p02_getKMA_XML.py
+p03_tempAverage|1663058801215708000|C:\Users\sundooedu\Desktop\wood\Sep13_2_WebData\p03_tempAverage.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+2=p02_getKMA_XML
+3=p01_getKMA_XML
+1=p03_tempAverage
+-- END DICTIONARY
+-- START TREE 1
+8
+con|2|con!11@con!19@
+cur|2|cur!11@cur!19@
+huc|2|huc!19@huc!27@
+res|4|res!27@resBody!27@res!19@resBody!19@
+sql|2|sql!11@sql!19@
+tem|1|temp!19@
+tim|1|time!19@
+wea|5|weatherXML!27@weathers!19@weatherXML!19@weather!19@weathers!27@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

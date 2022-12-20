@@ -1,0 +1,44 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Sep26_2_Seaborn\com.python.pydev.analysis\v2_indexcache
+p11_busHadoop|1664181784669669000|C:\Users\sundooedu\Desktop\wood\Sep26_2_Seaborn\p11_busHadoop.py
+p05_owm|1664163104245231000|C:\Users\sundooedu\Desktop\wood\Sep26_2_Seaborn\p05_owm.py
+p10_heatmap2|1664172279201741000|C:\Users\sundooedu\Desktop\wood\Sep26_2_Seaborn\p10_heatmap2.py
+p04_lkjl|1664162727148943000|C:\Users\sundooedu\Desktop\wood\Sep26_2_Seaborn\p04_lkjl.py
+p06_dust|1664163665293893000|C:\Users\sundooedu\Desktop\wood\Sep26_2_Seaborn\p06_dust.py
+p09_heatmap|1664170227258945000|C:\Users\sundooedu\Desktop\wood\Sep26_2_Seaborn\p09_heatmap.py
+p01_basic|1664158529734496000|C:\Users\sundooedu\Desktop\wood\Sep26_2_Seaborn\p01_basic.py
+p02_bar|1664159420623481000|C:\Users\sundooedu\Desktop\wood\Sep26_2_Seaborn\p02_bar.py
+p03_export|1664163856564757000|C:\Users\sundooedu\Desktop\wood\Sep26_2_Seaborn\p03_export.py
+p07_relation|1664169651359574000|C:\Users\sundooedu\Desktop\wood\Sep26_2_Seaborn\p07_relation.py
+-- END DISKCACHE
+-- START DICTIONARY
+9
+3=p11_busHadoop
+1=p05_owm
+6=p04_lkjl
+4=p06_dust
+8=p09_heatmap
+2=p01_basic
+9=p02_bar
+7=p03_export
+5=p07_relation
+-- END DICTIONARY
+-- START TREE 1
+12
+db|2|db!11@db!19@
+df|9|df!11@df!19@df!27@df!35@df!43@df!51@df!59@df!67@df!75@
+df2|1|df2!27@
+df3|1|df3!27@
+df4|1|df4!27@
+dus|3|dustData!35@dustData!43@dustData!75@
+fon|18|fontName!19@fontName!75@fontFile!35@fontFile!43@fontName!43@fontName!59@fontName!67@fontFile!75@fontFile!59@fontName!11@fontFile!19@fontFile!11@fontName!35@fontFile!67@fontName!27@fontFile!51@fontName!51@fontFile!27@
+get|1|getYoil!58@
+huc|3|huc!75@huc!43@huc!35@
+pt|1|pt!67@
+rb|3|rb!43@rb!35@rb!75@
+sql|2|sql!11@sql!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

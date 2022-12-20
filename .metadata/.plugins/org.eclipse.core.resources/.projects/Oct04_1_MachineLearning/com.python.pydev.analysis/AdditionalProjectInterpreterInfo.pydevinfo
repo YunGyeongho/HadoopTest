@@ -1,0 +1,50 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\sundooedu\Desktop\wood\.metadata\.plugins\org.eclipse.core.resources\.projects\Oct04_1_MachineLearning\com.python.pydev.analysis\v2_indexcache
+p05_aPriori2|1664861286451323000|C:\Users\sundooedu\Desktop\wood\Oct04_1_MachineLearning\p05_aPriori2.py
+test2|1664873646229517000|C:\Users\sundooedu\Desktop\wood\Oct04_1_MachineLearning\test2.py
+p04_aPriori|1664853425761172000|C:\Users\sundooedu\Desktop\wood\Oct04_1_MachineLearning\p04_aPriori.py
+test|1664928199836983000|C:\Users\sundooedu\Desktop\wood\Oct04_1_MachineLearning\test.py
+p01_naiveBayes|1664844118000423000|C:\Users\sundooedu\Desktop\wood\Oct04_1_MachineLearning\p01_naiveBayes.py
+p02_labelDaumBlog|1664851707413635000|C:\Users\sundooedu\Desktop\wood\Oct04_1_MachineLearning\p02_labelDaumBlog.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+3=p05_aPriori2
+5=test2
+2=test
+6=p04_aPriori
+4=p01_naiveBayes
+1=p02_labelDaumBlog
+-- END DICTIONARY
+-- START TREE 1
+25
+add|1|addr!11@
+bs|1|bs!19@
+con|2|con!11@con!27@
+cv|2|cv!35@cv!11@
+cvr|2|cvResult!35@cvResult!11@
+d|1|d!27@
+dat|2|data2!43@data!43@
+db|2|db!27@db!11@
+huc|1|huc!11@
+l|1|l!27@
+lab|2|label!35@label!11@
+mai|1|mainContent!19@
+mnb|3|mnb!11@mnbAi!35@mnb!35@
+o|1|o!27@
+rb|1|rb!11@
+rea|1|realAddr!19@
+req|2|req!43@req!19@
+res|4|result!11@result!35@result!27@result!51@
+rev|1|review!27@
+sav|1|save1!43@
+sen|2|sentenceCvResult!35@sentence!35@
+tit|1|titles!27@
+tra|4|trainData!27@trainData!51@trainData!35@trainData!11@
+url|2|url!19@url!43@
+wha|2|what!11@whatResult!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
